@@ -15,7 +15,7 @@ For that my first step is whatever I am leanring about node js I will write as a
 
 ## Installation
 ```bash
-git clone https://github.com/username/project.git
-cd project
+git clone https://github.com/saravanan323/NodeJS.git
+cd NodeJS
 npm install   # or pip install -r requirements.txt
 
